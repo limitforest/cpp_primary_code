@@ -1,2 +1,6 @@
-cpp_primary_code
+《cpp primary》书中的源码
 ================
+
+初步写了QueueItem,Queue，涉及知识点泛型，数据结构，内存管理.
+--------------
+
